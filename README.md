@@ -19,4 +19,4 @@ Infrastructure and operations engineer, 20+ years with Linux servers. Servers, d
 
 Remote, part-time, infrastructure and operations: servers, deploys, monitoring, backups, incident work, one-off tooling. During working hours I reply straight away and pick the task up the same day.
 
-Telegram: [@ms_sre](https://t.me/ms_sre)
+Telegram: [@msergeev_bot](https://t.me/msergeev_bot?start=github)

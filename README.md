@@ -1,6 +1,6 @@
 ## Hi, I'm Mihail
 
-Infrastructure and operations engineer, 20+ years with Linux servers. I keep production fleets running and write the tooling around them.
+Infrastructure and operations engineer, 20+ years with Linux servers. Servers, deploys, monitoring, backups, incident work.
 
 **Day to day:** Debian and Ubuntu, Docker and compose, Ansible across the whole fleet, Kubernetes (k0s, k3s, microk8s, kubeadm) with Flux, nginx and Caddy as front ends, TLS and IP allowlists, systemd units and timers, PostgreSQL, MySQL and ClickHouse, restic backups with retention and restore checks, WireGuard and OpenVPN, GitHub Actions.
 

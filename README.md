@@ -13,7 +13,7 @@ Infrastructure and operations engineer, 20+ years with Linux servers. I keep pro
 - [Kervax](https://github.com/mihsergeev/Kervax) - monitoring for sites, servers, containers, databases and backups in one panel. One command brings it up, the agent discovers what runs on each machine.
 - [amnezia-control](https://github.com/mihsergeev/amnezia-control) - self-hosted panel for AmneziaWG, OpenVPN-over-Cloak and XRay/REALITY nodes: deploy a node, issue and revoke client configs, traffic and node health, alerts, 2FA.
 - [NodeRoost](https://github.com/mihsergeev/NodeRoost) - self-hosted panel for headscale: access grants instead of hand-written HuJSON, device isolation, roles, subnets, per-device exit gateways.
-- Sekvyr (in progress) - secrets and environment variables. Values are edited in the web UI, servers and clusters pull them over the API and keep their local `.env` files in sync. The admin UI sits behind a VPN, the machine API is public.
+- [Sekvyr](https://github.com/mihsergeev/Sekvyr) - secrets and environment variables. Values are edited in the web UI, servers and clusters pull them over the API and keep their local `.env` files in sync. The admin UI sits behind a VPN, the machine API is public.
 
 ### Open for part-time work
 
